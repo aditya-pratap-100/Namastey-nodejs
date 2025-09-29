@@ -239,17 +239,7 @@ CHAT_ENCRYPTION_KEY=<32_bit_number>
 npm run dev
 ```
 
-## 📬 Let's Connect
 
-If you found this repository helpful, feel free to connect with me on:
-
-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/onlyVishesh)
-- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-%E2%80%8E-48b1b8257/)
-- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/onlyVishesh14)
-
-Let's collaborate and build amazing projects together! 🤝
-
----
 
 ## 📚 Other Resources
 
