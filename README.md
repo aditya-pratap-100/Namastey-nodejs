@@ -91,7 +91,7 @@
 
 This repository contains a `Collection of COde, Assignments & Notes`, which help you understand the concepts of Node.js.
 
-## [**Season 01**](https://github.com/onlyVishesh/Namaste-Nodejs/tree/main/Season%201)
+## [**Season 01**](https://github.com/aditya-pratap-100/Namaste-Nodejs/tree/main/Season%201)
 
 ### Learn basic of `Node.js` and its Fundamentals
 
