@@ -4,10 +4,6 @@ Welcome to **DevRoot**, a full-stack, real-time professional networking and coll
 
 ---
 
-## 🌐 Live Repositories
-
-[![Frontend Repo](https://img.shields.io/badge/Frontend-Repository-green)](https://github.com/onlyVishesh/DevRoot-Frontend)
-[![Backend Repo](https://img.shields.io/badge/Backend-Repository-blue)](https://github.com/onlyVishesh/DevRoot-Backend)
 
 ---
 
@@ -70,27 +66,8 @@ DevRoot is your go-to hub for building meaningful connections, sharing knowledge
 
 ---
 
-## 🚦 Quick Start
 
-### Backend
 
-```bash
-git clone https://github.com/onlyVishesh/DevRoot-Backend.git
-cd DevRoot-Backend
-npm install
-npm run dev
-```
-
-### Frontend
-
-```bash
-git clone https://github.com/onlyVishesh/DevRoot-Frontend.git
-cd DevRoot-Frontend
-npm install
-npm run dev
-```
-
----
 
 ## 🗂️ API & Module Highlights
 
@@ -113,21 +90,5 @@ npm run dev
 
 ---
 
-## ⭐ Star the Repository
 
-If you found this project helpful, please consider starring the repository and sharing it with your network!
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/onlyVishesh/Namaste-Nodejs/issues).
-
----
-
-## 📧 Contact
-
-For support or business inquiries, reach out to [vishesh@dev-root.xyz](mailto:vishesh@dev-root.xyz).
-
----
